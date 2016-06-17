@@ -20,4 +20,7 @@ public class Calculadora {
     float sum(float a, float b)
     { return a + b;
     }
+    
+    float res(float a, float b)
+    {return a - b ;}
 }
