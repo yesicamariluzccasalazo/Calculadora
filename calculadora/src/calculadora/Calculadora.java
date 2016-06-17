@@ -36,7 +36,7 @@ public class Calculadora {
         System.out.print("no se puede dividir");
         return -1;
     }
-    { return a/b;
-    }   
+    return a/b;
+       
 }
 }
