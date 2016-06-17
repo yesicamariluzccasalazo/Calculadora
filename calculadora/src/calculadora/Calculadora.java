@@ -22,19 +22,12 @@ public class Calculadora {
     }
     
     float res(float a, float b)
-    {return a - b ;}
-    
-<<<<<<< HEAD
-    float mul(float a, float b)
-    {return a*b ;}
-    
-    float div(float a, float b)
-    {return a/b ;}
-    
+    {return a - b ;}    
+
     double potencia(double a, double b)
     {return Math.pow(a,b);
     }
-=======
+
     float multiplicar(float a, float b)
     {return a*b;
     }
@@ -44,8 +37,6 @@ public class Calculadora {
         return -1;
     }
     { return a/b;
-    }
-   
->>>>>>> divcero
+    }   
 }
 }
