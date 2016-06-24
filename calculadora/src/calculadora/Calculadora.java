@@ -37,6 +37,9 @@ public class Calculadora {
         return -1;
     }
     return a/b;
-       
+    
 }
+    float hola(float a, float b){
+    return 5;
+    }
 }
